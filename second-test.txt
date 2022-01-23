@@ -2,3 +2,4 @@ bottom of the stack
 middle of the stack
 third level of the stack
 adding another commit after rebasing up the chain
+fourth level
